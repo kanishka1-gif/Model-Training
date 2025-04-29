@@ -1,6 +1,6 @@
 # Model Training App
 
-Live link - <a>https://aryan1524in-model-training-app-y02ig4.streamlit.app/</a>
+Live link - <a>https://kanishka1-gif-model-training-app-r3as0o.streamlit.app/</a>
 
 This is a Streamlit-based web application that demonstrates the process of model training, explanation, and prediction using various machine learning models.
 
@@ -20,7 +20,7 @@ This is a Streamlit-based web application that demonstrates the process of model
 ## Installation Instructions:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/aryan1524in/Model-Training.git
+   git clone https://github.com/kanishka1-gif/Model-Training.gitt
    ```
 
 2. Install the required dependencies:
